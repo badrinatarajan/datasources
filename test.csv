@@ -1,4 +1,4 @@
-time,bytes_in,bytes_out,http_response_code,connection_duration_ms
+@timestamp,bytes_in,bytes_out,http_response_code,connection_duration_ms
 1743465600000,868,1993,200,4536
 1743465660000,510,1963,200,1778
 1743465720000,524,1492,200,3538
